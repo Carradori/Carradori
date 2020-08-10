@@ -1,16 +1,13 @@
-### Hi there 👋
+# Felipe Carradori 💻
 
-<!--
-**Carradori/Carradori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor javascript
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-carradori/)](https://www.linkedin.com/in/felipe-carradori/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipecassianodf@gmail.com)](mailto:felipecassianodf@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Amando e aprendendo as melhores tecnologias de desenvolvimento mobile e web.
+
+Desde 2015 abordo nesse mundo da programação e até hoje aprendendo as melhores técnicas e ferramentas para o melhor desenvolvimento.
+
+> "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento." - Albert Einstein
+
